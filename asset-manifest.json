@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/rick-and-morty-explorer/static/css/main.9d41c804.chunk.css",
-    "main.js": "/rick-and-morty-explorer/static/js/main.b38ccd07.chunk.js",
-    "main.js.map": "/rick-and-morty-explorer/static/js/main.b38ccd07.chunk.js.map",
+    "main.js": "/rick-and-morty-explorer/static/js/main.de0ef53b.chunk.js",
+    "main.js.map": "/rick-and-morty-explorer/static/js/main.de0ef53b.chunk.js.map",
     "runtime-main.js": "/rick-and-morty-explorer/static/js/runtime-main.5a9806b9.js",
     "runtime-main.js.map": "/rick-and-morty-explorer/static/js/runtime-main.5a9806b9.js.map",
     "static/css/2.8a94f959.chunk.css": "/rick-and-morty-explorer/static/css/2.8a94f959.chunk.css",
-    "static/js/2.566eaf16.chunk.js": "/rick-and-morty-explorer/static/js/2.566eaf16.chunk.js",
-    "static/js/2.566eaf16.chunk.js.map": "/rick-and-morty-explorer/static/js/2.566eaf16.chunk.js.map",
+    "static/js/2.3a942092.chunk.js": "/rick-and-morty-explorer/static/js/2.3a942092.chunk.js",
+    "static/js/2.3a942092.chunk.js.map": "/rick-and-morty-explorer/static/js/2.3a942092.chunk.js.map",
     "static/js/3.b2e087c1.chunk.js": "/rick-and-morty-explorer/static/js/3.b2e087c1.chunk.js",
     "static/js/3.b2e087c1.chunk.js.map": "/rick-and-morty-explorer/static/js/3.b2e087c1.chunk.js.map",
     "index.html": "/rick-and-morty-explorer/index.html",
     "static/css/2.8a94f959.chunk.css.map": "/rick-and-morty-explorer/static/css/2.8a94f959.chunk.css.map",
     "static/css/main.9d41c804.chunk.css.map": "/rick-and-morty-explorer/static/css/main.9d41c804.chunk.css.map",
-    "static/js/2.566eaf16.chunk.js.LICENSE.txt": "/rick-and-morty-explorer/static/js/2.566eaf16.chunk.js.LICENSE.txt",
+    "static/js/2.3a942092.chunk.js.LICENSE.txt": "/rick-and-morty-explorer/static/js/2.3a942092.chunk.js.LICENSE.txt",
     "static/media/characters.jpeg": "/rick-and-morty-explorer/static/media/characters.969b18e1.jpeg",
     "static/media/errorRick.gif": "/rick-and-morty-explorer/static/media/errorRick.f6c06f6e.gif",
     "static/media/hologramRick.jpeg": "/rick-and-morty-explorer/static/media/hologramRick.50c322a5.jpeg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.5a9806b9.js",
     "static/css/2.8a94f959.chunk.css",
-    "static/js/2.566eaf16.chunk.js",
+    "static/js/2.3a942092.chunk.js",
     "static/css/main.9d41c804.chunk.css",
-    "static/js/main.b38ccd07.chunk.js"
+    "static/js/main.de0ef53b.chunk.js"
   ]
 }
