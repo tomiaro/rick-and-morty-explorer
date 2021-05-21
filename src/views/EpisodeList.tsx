@@ -21,7 +21,6 @@ function EpisodeList() {
 
     useEffect(() => {
         if (apiData?.episodes) {
-            console.log(apiData)
             setEpisodes(apiData.episodes.results);
             setTotalPagesNumber(apiData.episodes.info.count)
         }
