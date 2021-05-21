@@ -9,7 +9,7 @@ import LocationDetail from "./views/LocationDetail"
 import Navbar from "./components/Navbar"
 import Home from "./views/Home"
 import {Layout} from 'antd';
-import {BrowserRouter, Route, Switch} from 'react-router-dom'
+import {HashRouter, Route, Switch} from 'react-router-dom'
 import Breadcrumbs from "./components/Breadcrumbs";
 const { Header, Footer, Content} = Layout;
 
@@ -21,7 +21,7 @@ const routes: {name: string, text:string}[]= [{name: "character", text: "Charact
 function App() {
 
   return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <HashRouter>
             <Layout className="Layout">
                 <Header>
                     <Navbar/>
@@ -61,7 +61,7 @@ function App() {
                 </Content>
                 <Footer className="text-center">How dare you!</Footer>
             </Layout>
-      </BrowserRouter>
+      </HashRouter>
   );
 }
 
