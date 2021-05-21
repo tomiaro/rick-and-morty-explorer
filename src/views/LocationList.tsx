@@ -51,7 +51,7 @@ function LocationList() {
 
     return(
         <>
-            <h1 className="headings-2">Episodes</h1>
+            <h1 className="headings-2">Locations</h1>
             <SearchInput onSearch={handleSearch} error={error}/>
             <Table rowKey="id" size={"small"} loading={loading && {indicator: ricksHeadIndicator}}
                   pagination={getPaginationSettings(currentPage, (page: number) => setCurrentPage(page), totalPagesNumber)}
