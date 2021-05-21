@@ -1,0 +1,71 @@
+.site-layout-content {
+  min-height: 100%;
+  padding: 70px;
+  background: #fff;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.headings-1{
+  font-family: 'EB Garamond';
+  font-size: 40px;
+  font-weight: bold;
+
+}
+
+.header-main{
+  color: white;
+  font-family: 'EB Garamond';
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 40px;
+  float: left;
+
+}
+
+.header-item{
+   margin-right: auto !important;
+   margin-left: auto !important;
+}
+
+.description{
+  font-size: 18px;
+  font-weight: bold;
+
+}
+
+.description-main{
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+.headings-2{
+  font-family: 'EB Garamond';
+  font-size: 30px;
+  font-weight: bold;
+
+}
+
+.card-home{
+   width: 240px;
+   margin-right: auto !important;
+   margin-left: auto !important;
+}
+
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.3);
+}
+.ant-row-rtl .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+  [data-theme="dark"] .site-layout-content {
+    background: #141414;
+  }
