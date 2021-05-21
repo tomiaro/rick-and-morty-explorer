@@ -21,7 +21,7 @@ const routes: {name: string, text:string}[]= [{name: "character", text: "Charact
 function App() {
 
   return (
-      <BrowserRouter basename="/rick-and-morty-explorer">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Layout className="Layout">
                 <Header>
                     <Navbar/>
