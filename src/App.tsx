@@ -21,7 +21,7 @@ const routes: {name: string, text:string}[]= [{name: "character", text: "Charact
 function App() {
 
   return (
-      <BrowserRouter>
+      <BrowserRouter basename="/rick-and-morty-explorer">
             <Layout className="Layout">
                 <Header>
                     <Navbar/>
