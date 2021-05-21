@@ -37,7 +37,7 @@ export default function EpisodeDetail() {
 
     return (
         <>
-            <h1 className="headings-2 text-center">Location</h1>
+            <h1 className="headings-2 text-center">Episode</h1>
             <Divider/>
             <div className="text-center">
                 <span className="description-main">{episode.name}</span>
